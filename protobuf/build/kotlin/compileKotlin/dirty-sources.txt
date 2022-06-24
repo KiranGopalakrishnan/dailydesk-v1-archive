@@ -1,0 +1,4 @@
+/Users/Kiran/Documents/work/dailydesk/protobuf/build/generated/source/proto/main/kotlin/BifrostOuterClassKt.kt
+/Users/Kiran/Documents/work/dailydesk/protobuf/build/generated/source/proto/main/kotlin/UserKt.kt
+/Users/Kiran/Documents/work/dailydesk/protobuf/build/generated/source/proto/main/kotlin/TokenKt.kt
+/Users/Kiran/Documents/work/dailydesk/protobuf/build/generated/source/proto/main/grpckt/BifrostOuterClassGrpcKt.kt

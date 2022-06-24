@@ -1,0 +1,24 @@
+BifrostOuterClass.java
+ BifrostOuterClass
+ BifrostOuterClass$1
+ BifrostOuterClass$Token
+ BifrostOuterClass$Token$1
+ BifrostOuterClass$Token$Builder
+ BifrostOuterClass$TokenOrBuilder
+ BifrostOuterClass$User
+ BifrostOuterClass$User$1
+ BifrostOuterClass$User$Builder
+ BifrostOuterClass$UserOrBuilder
+BifrostGrpc.java
+ BifrostGrpc
+ BifrostGrpc$1
+ BifrostGrpc$2
+ BifrostGrpc$3
+ BifrostGrpc$BifrostBaseDescriptorSupplier
+ BifrostGrpc$BifrostBlockingStub
+ BifrostGrpc$BifrostFileDescriptorSupplier
+ BifrostGrpc$BifrostFutureStub
+ BifrostGrpc$BifrostImplBase
+ BifrostGrpc$BifrostMethodDescriptorSupplier
+ BifrostGrpc$BifrostStub
+ BifrostGrpc$MethodHandlers

@@ -1,0 +1,46 @@
+{"message":"⚡️[server]: Server is running on 8000","level":"info"}
+{"level":"info","message":"⚡️[server]: Server is running on 8000"}
+{"level":"info","message":"GET /users/login 404 150 - 3.988 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 239.712 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 19.691 ms\n"}
+{"level":"info","message":"GET /auto/login 401 41 - 0.883 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 38.393 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 18.711 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 8.951 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 13.296 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 12.894 ms\n"}
+{"level":"info","message":"⚡️[server]: Server is running on 8000"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 113.372 ms\n"}
+{"clientVersion":"2.30.3","code":"ECONNREFUSED","level":"error"}
+{"level":"info","message":"POST /users/login 500 51 - 14.910 ms\n"}
+{"level":"info","message":"⚡️[server]: Server is running on 8000"}
+{"level":"info","message":"GET /auto/login 401 41 - 4.254 ms\n"}
+{"level":"info","message":"POST /users/login 404 39 - 58.131 ms\n"}
+{"level":"info","message":"⚡️[server]: Server is running on 8000"}
+{"level":"info","message":"POST /users/login 404 39 - 50.118 ms\n"}
+{"level":"info","message":"GET /current/me 401 41 - 0.830 ms\n"}
+{"level":"info","message":"GET /users/login 404 150 - 1.727 ms\n"}
+{"clientVersion":"3.15.2","level":"error"}
+{"level":"info","message":"POST /users/login 400 42 - 17.982 ms\n"}
+{"level":"info","message":"POST /users 200 174 - 194.945 ms\n"}
+{"level":"info","message":"POST /users/login 200 174 - 137.765 ms\n"}
+{"level":"info","message":"GET /auto/login 200 23 - 128.354 ms\n"}
+{"level":"info","message":"GET /current/me 200 174 - 7.203 ms\n"}
+{"level":"info","message":"GET /auto/login 200 23 - 111.523 ms\n"}
+{"level":"info","message":"GET /current/me 200 174 - 9.090 ms\n"}
+{"level":"info","message":"GET /auto/login 200 23 - 112.300 ms\n"}
+{"level":"info","message":"GET /current/me 200 174 - 10.378 ms\n"}
+{"level":"info","message":"GET /auto/login 200 23 - 114.496 ms\n"}
+{"level":"info","message":"GET /current/me 200 174 - 16.280 ms\n"}
+{"level":"info","message":"GET /auto/login 200 23 - 83.006 ms\n"}
+{"level":"info","message":"GET /current/me 200 174 - 5.141 ms\n"}
+{"level":"info","message":"GET /auto/login 200 23 - 84.736 ms\n"}
+{"level":"info","message":"GET /current/me 200 174 - 8.117 ms\n"}

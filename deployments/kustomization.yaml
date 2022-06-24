@@ -1,0 +1,13 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+images:
+- name: 349142834852.dkr.ecr.us-east-2.amazonaws.com/projector-backend
+  newTag: 64ed2515d6ed157f2c972fefa385246ee312fed4
+- name: 349142834852.dkr.ecr.us-east-2.amazonaws.com/projector-frontend
+  newTag: 64ed2515d6ed157f2c972fefa385246ee312fed4
+resources:
+- resources/frontend.yaml
+- resources/backend.yaml
+- resources/ingress-service.yaml
+- resources/mongo.yaml
+- resources/ingress-controller.yaml

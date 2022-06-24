@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+service Bifrost {
+  rpc Verify(Token) returns (User) {}
+}
+
+message Token {
+  string token = 1;
+}
+
+message User {
+   string id = 1;
+   string firstname = 2;
+   string lastname = 3;
+   string email = 4;
+   string company = 5;
+   string status = 6;
+}

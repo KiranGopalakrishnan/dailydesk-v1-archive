@@ -1,0 +1,32 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Users {
+  id           String         @id
+  email        String         @unique
+  firstname    String
+  lastname     String
+  company      String
+  password     String         @unique
+  status       String
+  AccessTokens AccessTokens[]
+}
+
+model AccessTokens {
+  id     String @id
+  userId String
+  token  String @unique
+  status String
+  Users  Users  @relation(fields: [userId], references: [id])
+
+  @@unique([token, status], name: "token_status_unique_constraint")
+}
